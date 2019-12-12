@@ -9,6 +9,5 @@ The following notebook consists of:
     - CNN Architecture
   - Some trivial questions on CNN concepts
   - A coding activity that runs through the convolution process, classifying voer 1000 images from the MNIST dataset
-  
-  
-  
+  <br>
+  *Be sure to upload all the files to the directory prior to accessing the notebook*
